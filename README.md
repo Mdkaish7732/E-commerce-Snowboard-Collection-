@@ -4,10 +4,10 @@ A modern, animated, responsive E-Commerce front-end project that displays a coll
 
 ## 📸 Preview
 
-
+![1751686885901](image/README/1751686885901.png)
 ![image](https://github.com/user-attachments/assets/473b70ea-9a98-45af-9cfd-9727b7eb7efa)
 ![1751686195218](image/README/1751686195218.png)
-![1751686885901](image/README/1751686885901.png)
+
 # Live Responsive view on MOBILE 
 ![WhatsApp Image 2025-07-05 at 10 09 24_5f67a9b4](https://github.com/user-attachments/assets/766a7dc3-3a49-43e6-8332-c642fa12d886)
 
