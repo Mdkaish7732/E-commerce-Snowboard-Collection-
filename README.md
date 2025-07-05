@@ -40,10 +40,9 @@ A modern, animated, responsive E-Commerce front-end project that displays a coll
 ## 📁 Project Structure
 
 Snowboard-collection/
+├── index.html
+├── style.css
+├── script.js
+├── screenshot.png
+└── README.md
 
-│
-├── index.html # Main HTML file
-├── style.css # All UI styling and animations
-├── script.js # JS logic: fetch, render, sort, animate
-├── screenshot.png # Screenshot for README
-└── README.md # You're reading it
